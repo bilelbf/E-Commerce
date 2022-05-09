@@ -17,5 +17,11 @@ return [
     'Liste des Catégories' => 'قائمة الفئات',
     'Supprimer'=> 'حذف',
     'Modifier'=>'تعديل',
+    'Ajouter un produit'=>'أضف منتج',
+    'Liste des produits'=>'قائمة المنتجات',
+    'Produits'=>'منتجات',
+    'Catégories'=>'التصنيفات',
+    'Rechercher'=>'بحث',
+    'Déconnexion'=>'خروج',
 
 ];

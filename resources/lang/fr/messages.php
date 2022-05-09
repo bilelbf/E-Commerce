@@ -17,5 +17,12 @@ return [
     'Liste des Catégories' => 'Liste des Catégories',
     'Supprimer'=> 'Supprimer',
     'Modifier'=>'Modifier',
+    'Ajouter un produit'=>'Ajouter un produit',
+    'Liste des produits'=>'Liste des produits',
+    'Produits'=>'Produits',
+    'Catégories'=>'Catégories',
+    'Rechercher'=>'Rechercher',
+    'Déconnexion'=>'Déconnexion',
+
 
 ];

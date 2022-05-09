@@ -14,14 +14,14 @@
      <span class="icon text-white-50">
          <i class="fas fa-flag"></i>
      </span>
-     <span class="text">Ajouter un produit</span>
+     <span class="text">{{__('messages.Ajouter un produit')}}</span>
  </a>
  <hr class="sidebar-divider d-none d-md-block">
  <!-- DataTales Example -->
  <div class="card shadow mb-4">
     <center>
         <div class="card-header py-4">
-            <h6 class="m-0 font-weight-bold text-primary">Liste des produits</h6>
+            <h6 class="m-0 font-weight-bold text-primary">{{__('messages.Liste des produits')}}</h6>
         </div>
     </center>
     <div class="card-body">
